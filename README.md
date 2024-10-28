@@ -1,1 +1,2 @@
 # Shopping-Cart-System-Project
+write a program that simulates a simple shopping cart system. The program should have a class product that represents a product and provides methods for getting and setting the product's name, price and quantity. The program should also have a class cart that represents a shopping cart and provide methods for adding products to the cart, removing products from the cart and calculating the total cost of the products in the cart.
